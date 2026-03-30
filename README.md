@@ -57,9 +57,7 @@ Full-stack developer with a focus on building high-performance applications and 
 * **WobbleBounty** — Dynamic bounty system with GUI menus, player targeting, automated payouts, and real-time updates. Designed for competitive SMP gameplay.
 * **WobbleRTP** — High-performance Random Teleportation engine for PaperMC 1.21+. Features optimized location search and dimension-based progression.
 * **WobbleTeams** — Team management system with invitations, roles, persistence, and scoreboard integration.
-* **WobbleWarp** — Lightweight warp system for player teleportation with configurable locations and permissions.
 * **WobbleKillSound** — Custom kill sound system triggered on PvP events with configurable audio feedback.
-* **WobbleHome** — Player home system allowing set, teleport, and manage personal locations.
 * **WobbleCombat** — Combat logging and PvP control system to prevent abuse and enforce fair fights.
 * **WobbleSettings** — Centralized player settings system designed to control and sync behavior across multiple plugins
 * **https://morosmp.net** — Full-stack MERN platform integrated with Minecraft server data and community systems.
