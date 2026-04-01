@@ -6,7 +6,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/Paper-1.21.4-white?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Paper-1.21.x-white?style=for-the-badge" />
     <img src="https://img.shields.io/badge/MERN-Stack-3C873A?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </p>
