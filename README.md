@@ -4,7 +4,7 @@
     <img
       src="https://github.com/user-attachments/assets/e24b0b2c-3d0f-4791-a7d2-ef3ca6cf7762"
       alt="WobbleAura"
-      width="850"
+      width="500"
     />
   </a>
 
