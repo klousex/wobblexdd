@@ -1,8 +1,12 @@
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/85679b78-dd22-4a1c-a2f2-bc5813c2280c"</a>
-  
-![WobbleAura](https://github.com/user-attachments/assets/e24b0b2c-3d0f-4791-a7d2-ef3ca6cf7762)
-</p>
+<div align="center">
+
+  <a href="https://github.com/user-attachments/assets/85679b78-dd22-4a1c-a2f2-bc5813c2280c">
+    <img
+      src="https://github.com/user-attachments/assets/e24b0b2c-3d0f-4791-a7d2-ef3ca6cf7762"
+      alt="WobbleAura"
+      width="850"
+    />
+  </a>
 
   <h1>Wobble</h1>
   <p><strong>Full-Stack Developer • Java • Minecraft Infrastructure • MERN</strong></p>
@@ -28,6 +32,7 @@
       <img src="https://img.shields.io/badge/TikTok-@wobblexd-black?style=for-the-badge&logo=tiktok&logoColor=white" />
     </a>
   </p>
+
 </div>
 
 ---
