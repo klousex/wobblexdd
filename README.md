@@ -102,7 +102,7 @@ Configurable PvP kill sound plugin with custom feedback handling.
 ### WobbleRTP
 High-performance random teleport plugin with GUI-based world selection, safe location search, and async-oriented teleport flow.
 
-### MoroSMP Platform
+### EmeraldSMP Platform
 Full-stack MERN platform connected to Minecraft server data, community systems, and internal backend services.
 
 ### Automation Suite
