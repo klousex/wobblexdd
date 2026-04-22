@@ -82,8 +82,8 @@ I build systems where applications, services, and tools integrate into a single 
 ---
 
 ### Applications
-- klouse-desktop — Electron desktop client for a self-hosted VPN workflow.
-- klouse-mobile — React Native mobile client for a self-hosted VPN workflow
+- vpn-desktop — Electron desktop client for a self-hosted VPN workflow.
+- vpn-mobile — React Native mobile client for a self-hosted VPN workflow
 
 ---
 
